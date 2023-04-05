@@ -1,7 +1,9 @@
 # Simple app news using Vue 3 + Vite
 
 ### Functionalities
--Add news
+-Create User
+<br>-Login 
+<br>-Add news
 <br>-List news
 <br>-Delete news
 <br>-Edit news
